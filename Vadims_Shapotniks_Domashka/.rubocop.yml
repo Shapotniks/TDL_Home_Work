@@ -1,0 +1,12 @@
+AllCops:
+  SuggestExtensions: false
+  NewCops: enable
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Layout/TrailingEmptyLines:
+  Enabled: false
